@@ -26,7 +26,7 @@ func init() {
 func main() {
 
 	// List of Secret Santa participants
-  // TODO: Add or remove from this list to modify participants
+	// TODO: Add or remove from this list to modify participants
 	participants := []Participant{
 		{name: "Rudolph", phone: "+10000000000"},
 		{name: "Dasher", phone: "+10000000000"},
